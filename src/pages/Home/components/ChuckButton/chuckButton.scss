@@ -1,0 +1,19 @@
+.chuck {
+  &__btn {
+    display: block;
+    flex: 0 0 14%;
+    background: rgba(255, 255, 255, 1);
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 19px;
+    padding: 16px;
+    margin: 10px 10px;
+    color: #1c1c39;
+    cursor: pointer;
+    box-shadow: 0px 100px 80px rgba(80, 76, 103, 0.07), 0px 0px 10.0172px rgba(80, 76, 103, 0.035);
+    &:hover {
+      background: rgba(66, 46, 212, 1);
+    }
+  }
+}
