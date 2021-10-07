@@ -21,7 +21,7 @@ type StateType = ICategories & {
 };
 
 /**
- * This class renders home page. Page contains list of boards.
+ * This class renders home page. Page contains list of сategories of Chuck Norris quotes.
  */
 class Home extends React.Component<PropsType, StateType> {
   async componentDidMount(): Promise<void> {
