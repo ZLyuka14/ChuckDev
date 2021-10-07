@@ -17,7 +17,7 @@ export const getQuote =
       Swal.fire({
         icon: 'error',
         title: 'Error',
-        text: 'Cant get boards list from server. Try to reload page.',
+        text: 'Cant get Chuck Norris quote from server. Try to reload page.',
       });
 
       dispatch({ type: 'ERROR_ACTION_TYPE' });
