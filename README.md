@@ -13,7 +13,7 @@
 Если есть замечания или советы, пожалуйста, напишите мне в [телеграмм](https://telegram.me/ChupakabraBoy).
 
 Ссылки:
-* [Ссылка на задание](https://codempire-my.sharepoint.com/:w:/g/personal/dima_codempire_team/EWDB3HHzKqhHhE5PxX9iBUsBxHUe6SNd7OJU4EXmcf5GFQ?rtime=MF42e9SI2Ug)
-* [Github pages](https://zlyuka14.github.io/chuck/)
-* [Github repository](https://github.com/ZLyuka14/chuck)
+* [Задание](https://codempire-my.sharepoint.com/:w:/g/personal/dima_codempire_team/EWDB3HHzKqhHhE5PxX9iBUsBxHUe6SNd7OJU4EXmcf5GFQ?rtime=MF42e9SI2Ug)
+* [Github pages build version](https://zlyuka14.github.io/chuck/)
+* [Github build version repository](https://github.com/ZLyuka14/chuck)
 * [Резюме на английском](https://zlyuka14.github.io/)
