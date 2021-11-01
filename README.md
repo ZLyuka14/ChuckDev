@@ -10,4 +10,4 @@
 Ссылки:
 * [Github pages build version](https://zlyuka14.github.io/chuck/)
 * [Github build version repository](https://github.com/ZLyuka14/chuck)
-* [Chuck Norris Jokes Api](https://github.com/ZLyuka14/chuck)
+* [Chuck Norris Jokes Api](https://api.chucknorris.io/)
